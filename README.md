@@ -3,7 +3,8 @@
 This API shows the Proof of Concept of OpenLimite algorithm
 
 Note
-We do not guarantee any risk related to the OpenLimite algorithm
+we do not guarantee any risk related to the OpenLimite algorithm
+
 This algorithm it's just a POC of our thesis
 
 PART I: Download & Run on local environment
