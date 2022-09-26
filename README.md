@@ -11,7 +11,6 @@ PART I: Download & Run on local environment
 Method 1: From github
 
 1) Clone the repository, install node packages and verify routes locally
-//on local
 
 git clone https://github.com/ricardofsdomene/openlimite-api
 
