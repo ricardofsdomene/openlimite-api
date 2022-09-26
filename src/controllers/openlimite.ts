@@ -27,7 +27,7 @@ function comprometimento_de_renda(gastos: number, renda: number) {
   return cmprom;
 }
 
-// OPTAMOS EM FAZER ESSE DEPLOY INICIAL SEMOS MUITO CONSERVADORES
+// OPTAMOS EM FAZER ESSE DEPLOY INICIAL BEM CONSERVADOR
 // PODEM TESTAR DIFERENTES SALDOS E DIFERENTES RENDAS
 
 function capacidade_de_pagamento(renda: number, saldo: number, gastos: number) {
