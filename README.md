@@ -1,18 +1,24 @@
 # openlimite-api
 
-This API shows the Proof of Concept of OpenLimite algorithm\n
+This API shows the Proof of Concept of OpenLimite algorithm
 
-Note\n
-We do not guarantee any risk related to the OpenLimite algorithm\n
-This algorithm it's just a POC of our thesis\n
+Note
+We do not guarantee any risk related to the OpenLimite algorithm
+This algorithm it's just a POC of our thesis
 
-PART I: Download & Run on local environment\n
-##Method 1: From github\n
+PART I: Download & Run on local environment
+Method 1: From github
+
 1) Clone the repository, install node packages and verify routes locally
 //on local
-\ngit clone https://github.com/ricardofsdomene/openlimite-api
-\ncd openlimite-api
+
+git clone https://github.com/ricardofsdomene/openlimite-api
+
+cd openlimite-api
+
 ```npm install```
+
 ```npm run dev```
-\nYou can now test it on the following endpoint:\n
+
+You can now test it on the following endpoint:\n
 [POST] http://localhost:9844/openlimite/activate
