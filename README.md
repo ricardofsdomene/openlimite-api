@@ -14,7 +14,7 @@ Method 1: From github
 
 git clone https://github.com/ricardofsdomene/openlimite-api
 
-cd openlimite-api
+cd openlimite-api```
 
 ```npm install```
 
