@@ -20,5 +20,6 @@ cd openlimite-api```
 
 ```npm run dev```
 
-You can now test it on the following endpoint:\n
+You can now test it on the following endpoint:
+
 [POST] http://localhost:9844/openlimite/activate
